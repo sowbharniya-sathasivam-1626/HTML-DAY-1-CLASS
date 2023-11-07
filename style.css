@@ -1,0 +1,23 @@
+form { 
+    margin: 2em;
+    line-height: 2em;
+    background-color: bisque;
+    border: 10px;
+    margin: 20px;
+    padding: 10px;
+    width: 500px;
+    border-style: double;
+    border-radius: 40px;
+    text-align: left;
+    position: absolute;
+    letter-spacing: 1px;
+    box-shadow: 1px 1px;
+    box-shadow: #e2798e
+  }
+  .flex{
+    justify-content: center;
+  }
+  h1{
+    text-align: center;
+  }
+ 
